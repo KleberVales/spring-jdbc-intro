@@ -29,3 +29,17 @@ public class SpringJdbcIntroApplication implements CommandLineRunner {
         productService.showAllProducts();
     }
 }
+
+/* -Criar uma tabela com os seguintes itens
+
+            Product{id=1, name='Notebook', price=3500.0}
+            Product{id=2, name='Mouse', price=150.0}
+            Product{id=3, name='Teclado', price=200.0}
+
+    - Atualizar a tabela e mostrar a tabela atualizada
+
+            Product{id=1, name='Notebook', price=3500.0}
+            Product{id=2, name='Mouse', price=150.0}
+            Product{id=3, name='Teclado', price=200.0}
+            Product{id=4, name='Monitor', price=1200.0}
+ */
