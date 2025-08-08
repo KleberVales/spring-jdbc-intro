@@ -56,3 +56,11 @@ spring-jdbc-intro/
 └── README.md
 
 ```
+
+
+
+<img width="433" height="953" alt="spring_jdbc_intro_fluxo" src="https://github.com/user-attachments/assets/4d3a2866-e86d-46e4-b14b-125bc3761be7" />
+
+
+
+
